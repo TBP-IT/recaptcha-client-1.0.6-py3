@@ -14,6 +14,8 @@ This code is forked from the Python client [recaptcha-client 1.0.6-ssl](https://
 - Lots of comments.
 - Code tidying.
 
+This code also fixes the issue in SetupTools complying with PEP 440 by removing the '-ssl' in '1.0.6-ssl', to have a version that is only '1.0.6'.
+
 This code falls under its original MIT/X11 license. The author of this fork is not associated or affiliated with reCAPTCHA in any way.
 
 More information about reCAPTCHA and reCAPTCHA Mailhide: http://www.google.com/recaptcha
